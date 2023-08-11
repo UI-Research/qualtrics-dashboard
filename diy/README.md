@@ -1,5 +1,7 @@
 # Create Your Own Survey Data Dashboard
-These instructions assume you are comfortable with GitHub. If you are new to GitHub or would like a refresher, check out <a href="https://ui-research.github.io/reproducibility-at-urban/git-workflow.html" target="blank">this guide</a>. Key sections of the guide are also hyperlinked in the relevant steps below.
+These instructions assume you are comfortable with GitHub. If you are new to GitHub or would like a refresher, check out <a href="https://ui-research.github.io/reproducibility-at-urban/git-workflow.html" target="blank">this guide</a>. Key sections of the guide are also hyperlinked in the relevant steps below. 
+
+Watch this <a href="https://urbanorg.box.com/s/5yxqzflxwnsh78o3xeqs01ac41eoeqyh" target="_blank">video walkthrough</a> of us building a survey data dashboard for additional guidance, and feel free to post questions in the <a href="https://theurbaninstitute.slack.com/archives/CNUG9ELE5" target="_blank">#qualtrics</a> and <a href="https://theurbaninstitute.slack.com/archives/CF56VD6CX" target="_blank">#r-users-group</a> Slack channels!
 
 1. <a href="https://ui-research.github.io/reproducibility-at-urban/git-workflow.html" target="blank">Create a new GitHub repository</a> (repo) for your dashboard.\
    a. Select "Add a README file."\
