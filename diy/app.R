@@ -149,3 +149,9 @@ server <- function(input, output) {
 
 # build shiny application
 shinyApp(ui = ui, server = server)
+
+
+# ------------------------------------------------------------------------------
+# PUBLISH DASHBOARD
+# TODO: follow the instructions at https://ui-research.github.io/qualtrics-api/dash.html
+# to publish your dashboard online and make it available to others via URL
