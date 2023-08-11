@@ -1,0 +1,18 @@
+{
+    "type": [
+        0,
+        1,
+        2,
+        0,
+        1,
+        2
+    ],
+    "data": [
+        "> ",
+        "renv::status()",
+        "No issues found -- the project is in a consistent state.\n",
+        "> ",
+        "renv::activate()",
+        "\nRestarting R session...\n\n"
+    ]
+}

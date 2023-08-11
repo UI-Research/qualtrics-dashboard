@@ -1,0 +1,13 @@
+name: qual-dash
+title: qual-dash
+username: fvescia
+account: fvescia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 9581090
+bundleId: 7549905
+url: https://fvescia.shinyapps.io/qual-dash/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|renv.lock|screenshots/readme1.png|screenshots/readme2.png|screenshots/readme3.1.png|screenshots/readme3.2.png

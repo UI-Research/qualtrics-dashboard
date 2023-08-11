@@ -1,0 +1,42 @@
+@import url('https://fonts.google.com/specimen/Lato?query=lato');
+      h1 {
+        font-family: 'Lato', sans-serif;
+      }
+      body {
+        font-family: 'Lato', sans-serif; font-size: 16px;
+      }
+      .btn,
+.btn:active {
+  background-color: #1696d2;
+  color: #ffffff;
+  cursor: pointer;
+  padding: 17px;
+    padding-top: 17px;
+    padding-right: 17px;
+    padding-bottom: 17px;
+    padding-left: 17px;
+  border-radius: 0;
+  border: none;
+    border-top-color: initial;
+    border-top-style: none;
+    border-top-width: initial;
+    border-right-color: initial;
+    border-right-style: none;
+    border-right-width: initial;
+    border-bottom-color: initial;
+    border-bottom-style: none;
+    border-bottom-width: initial;
+    border-left-color: initial;
+    border-left-style: none;
+    border-left-width: initial;
+    border-image-source: initial;
+    border-image-slice: initial;
+    border-image-width: initial;
+    border-image-outset: initial;
+    border-image-repeat: initial;
+  font-size: 16px;
+  text-indent: 0;
+  text-shadow: none;
+  text-transform: uppercase;
+  text-align: center;
+}
